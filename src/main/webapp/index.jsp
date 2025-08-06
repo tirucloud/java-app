@@ -2,7 +2,7 @@
 <body bgcolor="pink">
 <h1><font color='black'> Welcome to Software Training Institute <font></h1>
 
-<a>Click Here To See Pythonlife Training Schedules</a>
+<a>Click Here To See Training Schedules</a>
   
   <h2> Call Us : +91-9xxxxxxxxx </h2>
   
