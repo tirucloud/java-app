@@ -6,7 +6,7 @@
   
   <h2> Call Us : +91-9xxxxxxxxx </h2>
   
-  <h3> Our Ofc Location : xxxxx, xxxxxxxxx </h3>
+  <h3> Our Office Location : xxxxx, xxxxxxxxx </h3>
 <p> THANKS FOR CHOOSING DEVOPS COURSE</p>
 <marquee> Learn learn learn </marquee>
 
